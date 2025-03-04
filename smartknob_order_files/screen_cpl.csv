@@ -1,0 +1,8 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,22uF,C_0805_2012Metric,108,-107,-90,bottom
+C2,0.1uF,C_0603_1608Metric,106,-107,-90,bottom
+J2,GC9A01,GC9A01Round1.28,100,-110.9,90,bottom
+Q1,2N7002,SOT-23,110,-110.5,180,bottom
+R1,10k,R_0603_1608Metric,112.5,-106,180,bottom
+R2,22R,R_0603_1608Metric,104.5,-107.5,-90,bottom
+R3,1M,R_0603_1608Metric,112.5,-107.5,0,bottom

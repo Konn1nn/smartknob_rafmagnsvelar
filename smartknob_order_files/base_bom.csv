@@ -1,0 +1,52 @@
+Comment,Designator,Footprint,JLCPCB Part # (optional)
+0.1uF,"C1, C2, C3, C4, C5, C6, C7, C8, C11, C12, C14, C15, C17, C19, C20, C21, C22, C23, C25, C27, C29",C_0603_1608Metric,C1591
+10uF,"C9, C10, C16, C18, C24, C26",C_0805_2012Metric,C2922480
+22uF,C13,C_0805_2012Metric,C98190
+1uF,C28,C_0603_1608Metric,C5673
+10k,"R3, R7, R8, R9, R10, R11, R12, R17",R_0603_1608Metric,C98220
+2.2k,"R13, R14, R15, R16",R_0603_1608Metric,C4190
+330,"R18, R19, R20, R21",R_2512_6332Metric,C19866
+5.1k,"R1, R2",R_0603_1608Metric,C105580
+100,"R5, R6",R_0603_1608Metric,C319953
+8.2k,R4,R_0603_1608Metric,C114637
+3.3uH,L1,L_0805_2012Metric,C307744
+SK6812SIDE-A,"D1, D2, D3, D4, D5, D6, D7, D8",SK6812-SIDE-A,C2890037
+MT6701-CT,U1,SOIC-8_3.9x4.9mm_P1.27mm,C2856764
+T-Micro32_Plus,U2,T-Micro32,N/A
+CH340C,U3,SOIC-16_3.9x9.9mm_P1.27mm,C84681
+HX711,U4,SOIC-16_3.9x9.9mm_P1.27mm,C43656
+TMC6300,U5,QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm_ThermalVias_LargerViaHoles,N/A
+AP2114HA-3.3,U6,SOT-223-3_TabPin2_InGndOut,C460314
+SN74LV1T34DBV,U7,SOT-23-5,C100024
+VEML7700,U8,VEML7700-TOP,C1850416
+TS1117BCW33_RPG,U9,SOT-223-3_TabPin2_GndOutIn,C6186
+MountHole,"H4, H5, H6, H7",MountingHole_2.2mm_M2_ISO7380_Pad_NonVirtual,"C2911210 or C2911532 (screw), C2961595 (nut)"
+MotorHole,"H1, H2, H3",MountingHole_M1.6,C2931389
+RotorScrew (BOM-only),"Z6, Z7, Z8",bom_only_no_pin,
+AlignmentHole,"H8, H9",MountingHole_2.2mm_M2_ISO7380_Pad_NonVirtual,
+MMBT4403,Q1,SOT-23,C78864
+UMH3N,Q2,SOT-363_SC-70-6,C62892
+5V,TP1,TestPoint_Pad_D2.0mm_ValueSilk,
+3.3v,TP2,TestPoint_Pad_D2.0mm_ValueSilk,
+GND,TP3,TestPoint_Pad_D2.0mm_ValueSilk,
+SDA,TP4,TestPoint_Pad_D2.0mm_ValueSilk,
+SCL,TP5,TestPoint_Pad_D2.0mm_ValueSilk,
+U,TP6,TestPoint_Pad_D2.0mm_ValueSilk,
+V,TP7,TestPoint_Pad_D2.0mm_ValueSilk,
+W,TP8,TestPoint_Pad_D2.0mm_ValueSilk,
+CSN,TP9,TestPoint_Pad_D2.0mm_ValueSilk,
+CLK,TP10,TestPoint_Pad_D2.0mm_ValueSilk,
+DO,TP11,TestPoint_Pad_D2.0mm_ValueSilk,
+LED,TP12,TestPoint_Pad_D2.0mm_ValueSilk,
+EN,TP13,TestPoint_Pad_D2.0mm_ValueSilk,
+BOOT,TP14,TestPoint_Pad_D2.0mm_ValueSilk,
+TX,TP15,TestPoint_Pad_D2.0mm_ValueSilk,
+RX,TP16,TestPoint_Pad_D2.0mm_ValueSilk,
+dummy_keepouts,Z5,ViewKeepouts3d,
+WatchGlass39.5mm,Z9,bom_only_no_pin,
+BLDCMotor,Z10,bom_only_no_pin,
+BLDC,J1,532610371,C293630
+USB_C_Receptacle_USB2.0,J2,USB4510_NoPaste,C428463
+LCD,J3,SolderPads_2mm_8,
+A,J4,SolderPads_2mm_3_STRAIN,
+B,J5,SolderPads_2mm_3_STRAIN,
